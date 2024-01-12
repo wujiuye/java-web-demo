@@ -43,7 +43,7 @@
                         <manifest>
                             <addClasspath>true</addClasspath>
                             <classpathPrefix>lib/</classpathPrefix>
-                            <mainClass>com.mypackage.MyClass</mainClass>
+                            <mainClass>fm.lizhi.common.nebula.webdemo.JavaWebApplication</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
